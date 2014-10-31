@@ -1,0 +1,5 @@
+C:\Users\PC21\Desktop\20-10 class\ConsoleAppInheritance relationsheep\ConsoleAppInheritance relationsheep\bin\Debug\ConsoleAppInheritance relationsheep.exe.config
+C:\Users\PC21\Desktop\20-10 class\ConsoleAppInheritance relationsheep\ConsoleAppInheritance relationsheep\bin\Debug\ConsoleAppInheritance relationsheep.exe
+C:\Users\PC21\Desktop\20-10 class\ConsoleAppInheritance relationsheep\ConsoleAppInheritance relationsheep\bin\Debug\ConsoleAppInheritance relationsheep.pdb
+C:\Users\PC21\Desktop\20-10 class\ConsoleAppInheritance relationsheep\ConsoleAppInheritance relationsheep\obj\Debug\ConsoleAppInheritance relationsheep.exe
+C:\Users\PC21\Desktop\20-10 class\ConsoleAppInheritance relationsheep\ConsoleAppInheritance relationsheep\obj\Debug\ConsoleAppInheritance relationsheep.pdb
